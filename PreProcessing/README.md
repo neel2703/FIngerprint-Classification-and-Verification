@@ -40,4 +40,6 @@ greatest ridge orientation variance, i.e., where the ridges vary more abruptly. 
 Poincare index method is used for locating the Singular points of the fingerprints. There
 are two types of points: Core and Delta. These points are used to classify the fingerprints.
 
+<br/>
+<br/>
 ![PreProcessing Pipeline](https://user-images.githubusercontent.com/82512279/201338674-af8bfcee-80d2-42cb-8ca4-bcabaef0887a.png)
