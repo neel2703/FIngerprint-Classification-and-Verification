@@ -16,7 +16,7 @@ fingerprint pairs from each class.
 - Resolution: 500 dpi
 
 ## EDA
-![EDA](![image](https://user-images.githubusercontent.com/82512279/201339135-d5ed6faa-26f9-42b3-a346-e78da8f30844.png)
+![EDA](https://user-images.githubusercontent.com/82512279/201339135-d5ed6faa-26f9-42b3-a346-e78da8f30844.png)
 
 <br/>
 
