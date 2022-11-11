@@ -11,6 +11,6 @@ The NIST-SD4 is a freely available fingerprint collection, compiled and curated 
 classification tasks. It contains 2000 8-bit grayscale fingerprint image pairs (totaling 4000
 images). The database is evenly distributed over each of the five classifications with 400
 fingerprint pairs from each class.
-● Sensor type: optical, solid-state, touch-free
-● Image Size: 512x512
-● Resolution: 500 dpi
+- Sensor type: optical, solid-state, touch-free
+- Image Size: 512x512
+- Resolution: 500 dpi
