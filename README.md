@@ -17,6 +17,7 @@ fingerprint pairs from each class.
 
 ## EDA
 ![EDA](![image](https://user-images.githubusercontent.com/82512279/201339135-d5ed6faa-26f9-42b3-a346-e78da8f30844.png)
+
 <br/>
 
 The number of fingerprint images in each class:
@@ -25,4 +26,5 @@ The number of fingerprint images in each class:
 - Right Loop – 800
 - Tented Arch – 800
 - Whorl – 800
+<br/>
 There is no class imbalance in the NIST-4 dataset.
